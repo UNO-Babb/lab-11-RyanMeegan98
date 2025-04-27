@@ -1,0 +1,5 @@
+From this simulation, I learned how small changes in staffing and customer flow can dramatically impact a system’s performance. When too few checkers were available, shoppers experienced long wait times and bottlenecks. Increasing the number of checkers improved service speed but also reduced idle time, showing the importance of balancing worker availability with customer demand.
+
+I also learned that adding random variation to customer arrivals made the system more realistic and exposed how even slight surges could overwhelm limited staff. Managing customer service environments requires careful planning to prevent overload while minimizing wasted labor.
+
+This lab showed me that small adjustments to processing speeds, arrival rates, and staffing can create major differences in overall efficiency and customer satisfaction.
